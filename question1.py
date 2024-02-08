@@ -1,5 +1,7 @@
 import random
 
+# Variable for level
+
 print('Input cell number(e.g. A1) of the different character')
 print('level:1')
 

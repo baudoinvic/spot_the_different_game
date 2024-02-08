@@ -1,5 +1,8 @@
 import random
 
+# Convert input cell number to int
+
+
 data = [['O','0'], ['l','1'], ['u','v']]
 level = 1
 

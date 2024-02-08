@@ -1,5 +1,7 @@
 import random
 
+#Functionalization
+
 level = 1
 
 print('Input cell number (e.g. A1) of different character.')

@@ -1,5 +1,7 @@
 import random
 
+# Display correct answer in case input is wrong
+
 data = [['O','0'], ['l','1'], ['u','v']]
 level = 1
 

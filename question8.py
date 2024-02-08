@@ -1,5 +1,7 @@
 import random
 
+#Judge input
+
 data = [['O','0'], ['l','1'], ['u','v']]
 level = 1
 

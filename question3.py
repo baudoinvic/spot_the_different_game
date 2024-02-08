@@ -1,5 +1,7 @@
 import random
 
+# Use random int
+
 level = 1
 
 def start_message():
